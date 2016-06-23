@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListaUsuarios><Usuario><matricula>123</matricula><nome>Joao</nome><debito>0.0</debito><tipo>Aluno</tipo></Usuario><Usuario><matricula>124</matricula><nome>Matheus</nome><debito>10.0</debito><tipo>Aluno</tipo></Usuario></ListaUsuarios>
